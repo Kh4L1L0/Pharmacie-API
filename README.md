@@ -1,2 +1,4 @@
 # Pharmacie-API
-Api de pharmacie
+
+
+Node.js RESTful API for pharmacy management
